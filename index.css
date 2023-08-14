@@ -1,0 +1,40 @@
+html, body {
+    margin: 0;
+    padding: 0; 
+}
+
+img{
+    border-radius: 50%;
+    width: 200px;
+}
+.nome{
+    display: flex;
+    align-items: center;
+}
+
+hr{
+    width: 80%; 
+    margin-top: 30px;
+}
+li{
+    font-size: 14px; margin-left: 30px;
+}
+
+ul{
+    list-style: circle; 
+    font-size: 20px;
+}
+
+span{
+    font-weight: bold;
+}
+
+.listas{
+    margin-left: 40px;
+}
+
+.listas h2{
+    text-decoration: underline;
+}
+
+
